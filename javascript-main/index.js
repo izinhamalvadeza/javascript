@@ -1,1 +1,0 @@
-document.getElementById("texto").innerHTML="meu primeiro texto"
